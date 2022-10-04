@@ -1,6 +1,6 @@
 ﻿import sys
+
 from PyQt6.QtWidgets import QApplication, QWidget
-import sys
 
 
 class Window(QWidget):
